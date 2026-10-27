@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Automation projects for local businesses**
 
-- 🌱 I’m currently learning **Systems Engineering at UTN and Cybersecurity by myself**
+- 🌱 I’m currently learning **Systems Engineering at UTN**
 
 - 👯 I’m looking to collaborate on **Open-source projects or team initiatives where I can develop leadership, human relations, and team motivation skills.**
 
